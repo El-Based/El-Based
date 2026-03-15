@@ -1,26 +1,40 @@
-# 🚀 Hi, I'm El-Based!
+# ⫸ SYSTEM_CORE / El-Based
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="200" />
+  <img src="https://raw.githubusercontent.com/mabdullahadeel/mabdullahadeel/main/assets/images/header.gif" alt="System Interface" width="600" />
 </p>
 
-### ⚡ Quick Byte
-I'm a passionate developer who loves building digital solutions and exploring new technologies. Welcome to my corner of GitHub!
+<p align="center">
+  <code>[ status: initialized ]</code> &nbsp; <code>[ access: public ]</code>
+</p>
 
 ---
 
-### 🛠️ What I'm Up To
-* 🔭 **Current Project:** Building something amazing with Python and React.
-* 🌱 **Learning:** Deep diving into Cloud Architecture and System Design.
-* 💬 **Ask me about:** Open source, tech trends, or the best coffee spots.
-* 📫 **Reach me:** [your-email@example.com]
+### 📂 PROFILE // INITIALIZING...
 
-### 🧰 Tech Stack
-| Frontend | Backend | Tools |
-| :--- | :--- | :--- |
-| React, Tailwind | Node.js, PostgreSQL | Docker, Git, AWS |
+* `◆` **Currently processing:** [Your Main Project]
+* `◇` **Current focus:** System Architecture & Clean Code
+* `◬` **Network status:** OPEN for collaboration
+* `◎` **Direct link:** [your-portfolio.com]
+
+### ▣ MODULES_LOADED
+
+| CATEGORY | STACK |
+| :--- | :--- |
+| **FRONTEND** | `REACT` `TYPESCRIPT` `TAILWIND` |
+| **BACKEND** | `NODE.JS` `GO` `POSTGRES` |
+| **SYSTEMS** | `DOCKER` `KUBERNETES` `AWS` |
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=El-Based&show_icons=true&theme=dark&hide_border=true)
+### ◰ DATA_VISUALIZATION
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=El-Based&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=bbb&icon_color=ffffff" alt="Stats" />
+</p>
+
+---
+
+<p align="center">
+  <sub>// 2026 EL-BASED CORE // ⌘ END_TRANSMISSION</sub>
+</p>
