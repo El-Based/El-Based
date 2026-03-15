@@ -3,19 +3,14 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/mabdullahadeel/mabdullahadeel/main/assets/images/header.gif" alt="System Interface" width="600" />
 </p>
-
-<p align="center">
-  <code>[ status: initialized ]</code> &nbsp; <code>[ access: public ]</code>
-</p>
-
 ---
 
 ### 📂 PROFILE // INITIALIZING...
 
-* `◆` **Currently processing:** [Your Main Project]
-* `◇` **Current focus:** System Architecture & Clean Code
-* `◬` **Network status:** OPEN for collaboration
-* `◎` **Direct link:** [your-portfolio.com]
+`◆` **Currently processing:** [Your Main Project]
+`◇` **Current focus:** System Architecture & Clean Code
+`◬` **Network status:** OPEN for collaboration
+`◎` **Direct link:** [your-portfolio.com]
 
 ### ▣ MODULES_LOADED
 
