@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/mabdullahadeel/mabdullahadeel/main/assets/images/header.gif" alt="System Interface" width="600" />
 </p>
----
 
 ### 📂 PROFILE // INITIALIZING...
 
