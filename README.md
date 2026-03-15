@@ -1,16 +1,26 @@
-## Hi there 👋
+# 🚀 Hi, I'm El-Based!
 
-<!--
-**El-Based/El-Based** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="200" />
+</p>
 
-Here are some ideas to get you started:
+### ⚡ Quick Byte
+I'm a passionate developer who loves building digital solutions and exploring new technologies. Welcome to my corner of GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ What I'm Up To
+* 🔭 **Current Project:** Building something amazing with Python and React.
+* 🌱 **Learning:** Deep diving into Cloud Architecture and System Design.
+* 💬 **Ask me about:** Open source, tech trends, or the best coffee spots.
+* 📫 **Reach me:** [your-email@example.com]
+
+### 🧰 Tech Stack
+| Frontend | Backend | Tools |
+| :--- | :--- | :--- |
+| React, Tailwind | Node.js, PostgreSQL | Docker, Git, AWS |
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=El-Based&show_icons=true&theme=dark&hide_border=true)
